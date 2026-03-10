@@ -48,12 +48,12 @@ h3 {
   color: #9428d6;
 }
 
-.main {
+main {
     display: flex;
     flex-direction: column;
     padding: 20px;
     background-color: rgb(255, 255, 255);
-    min-height: 50%;
+    min-height: 100%;
     flex-grow: 1;
 
 }
